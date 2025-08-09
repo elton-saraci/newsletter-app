@@ -35,4 +35,5 @@ The backend API runs on port 8081. Here are the main endpoints:
 - There are integration tests for every endpoint, using H2 database
 - I also implemented integration tests for Kafka messages as well, making sure we can produce and consume correct messages.
 
-# Workflow
+# What it looks like
+Take a look at the pictures folder
