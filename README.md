@@ -1,5 +1,6 @@
  # Newsletter Subscription App
-This is a simple newsletter subscription application built with Spring Boot, Kafka, PostgreSQL, Docker and a basic Frontend.
+This is a simple newsletter subscription application built with Spring Boot, Kafka, PostgreSQL, Docker and a basic Frontend with
+TailwindCSS and Typescript.
 
 # What this project does
 - Allows users to subscribe to a newsletter by providing their email, first name, and last name on a UI.
@@ -20,6 +21,8 @@ This is a simple newsletter subscription application built with Spring Boot, Kaf
 - This will start Kafka, Zookeeper, PostgreSQL, the backend API, and frontend app.
 - Frontend will be on localhost:3000
 - Backend will be on localhost:8081
+- Kafka on localhost:9092
+- Postgresql on jdbc:postgresql://postgres:5432/newsletter
 
 # Swagger — API documentation
 - http://localhost:8081/swagger-ui/index.html#/
