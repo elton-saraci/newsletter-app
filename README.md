@@ -21,7 +21,7 @@ TailwindCSS and Typescript.
 - This will start Kafka, Zookeeper, PostgreSQL, the backend API, and frontend app.
 - Frontend will be on localhost:3000
 - Backend will be on localhost:8081
-- Kafka on localhost:9092
+- Kafka on localhost:8083
 - Postgresql on jdbc:postgresql://postgres:5432/newsletter
 
 # Swagger — API documentation
